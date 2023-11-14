@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+  <g id="cases_inquires" transform="translate(-1024 -153)">
+    <g id="Messages_icon" data-name="Messages/icon" transform="translate(1024 153)">
+      <g id="Group">
+        <ellipse id="Oval_Copy_8" data-name="Oval Copy 8" cx="19" cy="18" rx="19" ry="18" fill="#fff" opacity="0.24"/>
+      </g>
+    </g>
+    <path id="Icon_material-youtube-searched-for" data-name="Icon material-youtube-searched-for" d="M18.01,15.5h-.8l-.27-.27A6.5,6.5,0,0,0,12.01,4.5,6.558,6.558,0,0,0,5.51,11H3l3.84,4L11,11H7.51a4.5,4.5,0,1,1,4.5,4.5,4.6,4.6,0,0,1-1.82-.38L8.71,16.6a6.475,6.475,0,0,0,7.52-.67l.27.27v.79l5.01,4.99L23,20.5Z" transform="translate(1030 157.5)" fill="#fff"/>
+  </g>
+</svg>

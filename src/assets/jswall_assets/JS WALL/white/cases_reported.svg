@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+  <g id="cases_reported" transform="translate(-733 -153)">
+    <g id="Completed_icon" data-name="Completed/icon" transform="translate(733 153)">
+      <g id="Completed_icon-2" data-name="Completed/icon">
+        <ellipse id="Oval_Copy_7" data-name="Oval Copy 7" cx="19" cy="18" rx="19" ry="18" fill="rgba(255,255,255,0.5)" opacity="0.24"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-file-alt" data-name="Icon awesome-file-alt" d="M7.324,4.447V0H.785A.783.783,0,0,0,0,.785V15.957a.783.783,0,0,0,.785.785H11.771a.783.783,0,0,0,.785-.785V5.232H8.109A.787.787,0,0,1,7.324,4.447Zm2.093,7.717a.394.394,0,0,1-.392.392H3.531a.394.394,0,0,1-.392-.392V11.9a.394.394,0,0,1,.392-.392H9.025a.394.394,0,0,1,.392.392Zm0-2.093a.394.394,0,0,1-.392.392H3.531a.394.394,0,0,1-.392-.392V9.809a.394.394,0,0,1,.392-.392H9.025a.394.394,0,0,1,.392.392Zm0-2.354v.262a.394.394,0,0,1-.392.392H3.531a.394.394,0,0,1-.392-.392V7.717a.394.394,0,0,1,.392-.392H9.025A.394.394,0,0,1,9.417,7.717Zm3.139-3.731v.2H8.371V0h.2a.784.784,0,0,1,.556.229l3.2,3.2A.782.782,0,0,1,12.556,3.986Z" transform="translate(746 163)" fill="#fff"/>
+  </g>
+</svg>
