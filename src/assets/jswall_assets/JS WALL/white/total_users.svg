@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+  <g id="total_users" transform="translate(-1604 -153)">
+    <g id="Delivered_icon" data-name="Delivered/icon" transform="translate(1604 153)">
+      <g id="Group">
+        <ellipse id="Oval_Copy_9" data-name="Oval Copy 9" cx="19" cy="18" rx="19" ry="18" fill="#fff" opacity="0.24"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M9,10.125A5.063,5.063,0,1,0,3.938,5.063,5.064,5.064,0,0,0,9,10.125Zm4.5,1.125H11.563a6.12,6.12,0,0,1-5.126,0H4.5A4.5,4.5,0,0,0,0,15.75v.563A1.688,1.688,0,0,0,1.688,18H16.313A1.688,1.688,0,0,0,18,16.313V15.75A4.5,4.5,0,0,0,13.5,11.25Z" transform="translate(1614 162)" fill="#fff"/>
+  </g>
+</svg>

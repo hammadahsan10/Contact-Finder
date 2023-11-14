@@ -1,0 +1,62 @@
+// colors variables
+$backgroundColor: #38373d !important;
+
+.custom-button-css > .p-button {
+    color: white;
+    background: $backgroundColor;
+    border: 1px solid #38373d !important;
+    margin-left: -10px !important;
+    font-size: 1.2rem !important;
+    width: 3.2rem !important;
+    height: 3.2rem !important;
+    border-radius: 50% !important;
+}
+.custom-button-css > .p-button:hover {
+    color: gray !important;
+    border: 1px solid #38373d !important;
+    border-radius: 50% !important;
+}
+.custom-button-css > .p-splitbutton-defaultbutton {
+    display: none !important;
+}
+
+//radio-button-prime
+.p-radiobutton .p-radiobutton-box.p-highlight {
+    border-color: #f99506 !important;
+    background: #f99506 !important;
+}
+//-------------input-login---------
+
+.input-logins {
+    border-radius: 50px !important;
+    padding-left: 4rem !important;
+}
+.email-icon {
+    position: absolute;
+    width: 25px;
+    margin-top: 14px;
+    margin-left: 1.5rem;
+}
+.password-icons {
+    position: absolute;
+    width: 15px;
+    margin-top: 14px;
+    margin-left: 1.5rem;
+}
+.input-login-forms {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+/* OverlayPanelDemo.css */
+
+.overlaypanel-demo .select-product-button {
+    min-width: 15rem;
+}
+
+.overlaypanel-demo .product-image {
+    width: 50px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366" height="241" viewBox="0 0 366 241">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.866" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#736dff"/>
+      <stop offset="1" stop-color="#a97fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.866" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5664ff"/>
+      <stop offset="1" stop-color="#a97fff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="271" height="125" rx="8" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="t1" transform="translate(21564 7861)">
+    <rect id="Mask-2" data-name="Mask" width="216" height="91" rx="8" transform="translate(-21489 -7786)" fill="url(#linear-gradient-2)"/>
+    <g id="Oval" transform="translate(-21521 -7824)">
+      <rect id="Mask-3" data-name="Mask" width="271" height="125" rx="8" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

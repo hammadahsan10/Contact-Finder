@@ -1,0 +1,6 @@
+<svg id="high_alerts" xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+  <g id="high_alerts-2" data-name="high_alerts">
+    <ellipse id="Oval_Copy_9" data-name="Oval Copy 9" cx="19" cy="18" rx="19" ry="18" fill="#fff" opacity="0.24"/>
+    <path id="Icon_ionic-md-alert" data-name="Icon ionic-md-alert" d="M13.227,3.375a9.852,9.852,0,1,0,9.852,9.852A9.881,9.881,0,0,0,13.227,3.375Zm1.137,14.777H12.09V16.258h2.273Zm0-4.168H12.09V7.922h2.273Z" transform="translate(5.773 4.773)" fill="#fff"/>
+  </g>
+</svg>

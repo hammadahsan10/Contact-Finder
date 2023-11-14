@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366" height="241" viewBox="0 0 366 241">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.866" x2="0.024" y2="0.021" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7c598"/>
+      <stop offset="1" stop-color="#ff8886"/>
+    </linearGradient>
+    <filter id="Rectangle_Copy_15" x="38.5" y="27.5" width="288" height="140" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#5361ff" flood-opacity="0.055"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="t2" transform="translate(21277 7857)">
+    <rect id="Mask" width="216" height="91" rx="8" transform="translate(-21202 -7782)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, -21277, -7857)" filter="url(#Rectangle_Copy_15)">
+      <rect id="Rectangle_Copy_15-2" data-name="Rectangle Copy 15" width="273" height="125" rx="8" transform="translate(46 33)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="367" height="241" viewBox="0 0 367 241">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.077" y1="0.108" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#deb545"/>
+      <stop offset="1" stop-color="#d6c589"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.077" y1="0.108" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#deb544"/>
+      <stop offset="1" stop-color="#d5c896"/>
+    </linearGradient>
+    <filter id="Rectangle_Copy_17" x="39.5" y="32.5" width="287" height="140" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#5361ff" flood-opacity="0.055"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="t5" transform="translate(20408 7862)">
+    <rect id="Mask" width="217" height="91" rx="8" transform="translate(-20333 -7787)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, -20408, -7862)" filter="url(#Rectangle_Copy_17)">
+      <rect id="Rectangle_Copy_17-2" data-name="Rectangle Copy 17" width="272" height="125" rx="8" transform="translate(47 38)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="20" viewBox="0 0 19 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="vectorMask" width="17.78" height="20" transform="translate(740 110)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="notification" transform="translate(-280 -42)">
+    <g id="bell" transform="translate(-460 -68)" style="isolation: isolate">
+      <g id="Group_3" data-name="Group 3">
+        <rect id="Clip_2" data-name="Clip 2" width="17.78" height="20" transform="translate(740 110)" fill="rgba(0,0,0,0)"/>
+        <g id="Mask_by_Clip_2" data-name="Mask by Clip 2" clip-path="url(#clip-path)">
+          <g id="Mask_by_Clip_2-2" data-name="Mask by Clip 2">
+            <path id="Fill_1" data-name="Fill 1" d="M748.891,130a2.59,2.59,0,0,1-2.623-2.55l0-.006h0l-4.348,0a1.865,1.865,0,1,1-.077-3.729,15.763,15.763,0,0,1,1.755-6.765,7.34,7.34,0,0,1,3.853-3.629,1.912,1.912,0,0,1-.572-1.362,2.013,2.013,0,0,1,4.024,0,1.914,1.914,0,0,1-.572,1.362,7.34,7.34,0,0,1,3.853,3.629,15.77,15.77,0,0,1,1.755,6.765,1.865,1.865,0,1,1-.077,3.729h-4.349v0a.02.02,0,0,1,0,.006A2.59,2.59,0,0,1,748.891,130Zm-1.765-2.56v.01a1.766,1.766,0,0,0,3.531,0v-.01Zm-5.2-2.9a1.035,1.035,0,1,0,0,2.07h13.94a1.035,1.035,0,1,0,0-2.07Zm6.97-10.624c-1.541,0-3.03,1.014-4.191,2.856a14.569,14.569,0,0,0-2,6.935h12.381a14.568,14.568,0,0,0-2-6.935C751.921,114.927,750.433,113.912,748.891,113.912Zm0-3.079a1.123,1.123,0,1,0,1.155,1.122A1.14,1.14,0,0,0,748.891,110.833Z" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <circle id="Oval" cx="2.5" cy="2.5" r="2.5" transform="translate(294 46)" fill="#f11513"/>
+  </g>
+</svg>
